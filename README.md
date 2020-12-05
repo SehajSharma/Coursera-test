@@ -1,2 +1,3 @@
 # Coursera-test
-Coursera test repository by Sehaj Sharma
+
+Coursera test repository by SehajSharma
